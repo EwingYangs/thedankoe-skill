@@ -352,6 +352,6 @@ description: Dan Koe 方法论 — 一人公司、写作杠杆、聚焦哲学、
 - **推文数量**: 3378 条过滤后的原创推文
 - **时间跨度**: 2020-07-02 至 2026-03-28
 - **原子类型分布**: principle (1321) > insight (1086) > method (349) > anti-pattern (306) > tool (230) > case (86)
-- **原子库**: `原子库/atoms.jsonl`
+- **原子库**: `atoms/atoms.jsonl`
 - **知识包**: `references/` 目录下 6 个主题文件
-- **高频概念词典**: `高频概念词典.md`
+- **高频概念词典**: `frequency_dictionary.md`

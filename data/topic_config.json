@@ -1,0 +1,26 @@
+{
+  "One-Person Business": {
+    "description": "Building and scaling a profitable one-person business — monetization, products, pricing, funnels, and the solo entrepreneur lifestyle.",
+    "serves": ["one-person-business", "digital-leverage"]
+  },
+  "Content & Writing": {
+    "description": "Writing as the foundational lever — newsletters, content repurposing, hooks, storytelling, and building a content flywheel.",
+    "serves": ["content-writing", "digital-leverage"]
+  },
+  "Focus & Philosophy": {
+    "description": "The Art of Focus — meaning, purpose, consciousness, anti-entropy, and intentional living as a philosophical practice.",
+    "serves": ["focus-philosophy", "personal-development"]
+  },
+  "Personal Development": {
+    "description": "Self-education, identity reinvention, mastery, discipline, and designing a life worth living.",
+    "serves": ["personal-development", "mindset-psychology"]
+  },
+  "Digital Leverage": {
+    "description": "Using the internet, social media, software, and AI as leverage — building audience, brand, and automated systems.",
+    "serves": ["digital-leverage", "one-person-business"]
+  },
+  "Mindset & Psychology": {
+    "description": "Breaking free from conditioning, overcoming fear and procrastination, reframing beliefs, and building an action-oriented mindset.",
+    "serves": ["mindset-psychology", "personal-development"]
+  }
+}

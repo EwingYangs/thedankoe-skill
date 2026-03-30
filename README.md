@@ -39,8 +39,8 @@ After install, trigger with `/thedankoe` or ask "what would Dan Koe say about...
 thedankoe/
 ├── SKILL.md                    # 主技能文件（安装此文件）
 ├── README.md                   # 本文件
-├── 高频概念词典.md               # Dan Koe 高频概念词典
-├── 原子库/
+├── frequency_dictionary.md       # Dan Koe 高频概念词典
+├── atoms/
 │   └── atoms.jsonl             # 3378 条原子知识（JSONL 格式）
 ├── references/                 # 知识包（按主题分类）
 │   ├── one_person_business.md

@@ -1,0 +1,8 @@
+{
+  "One-Person Business": ["thedankoe-one-person-business", "thedankoe-digital-leverage"],
+  "Content & Writing": ["thedankoe-content-writing", "thedankoe-digital-leverage"],
+  "Focus & Philosophy": ["thedankoe-focus-philosophy", "thedankoe-personal-development"],
+  "Personal Development": ["thedankoe-personal-development", "thedankoe-mindset-psychology"],
+  "Digital Leverage": ["thedankoe-digital-leverage", "thedankoe-one-person-business"],
+  "Mindset & Psychology": ["thedankoe-mindset-psychology", "thedankoe-personal-development"]
+}
